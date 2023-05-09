@@ -1,3 +1,5 @@
+![lorem picsum](http://picsum.photos/195/300)
+------------------------------------------------
 # kodluyoruzilkrepo
 bu repo [kodluyoruz](http://www.kodluyoruz.org/) frontend eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet readme dosyası, bir adet index.html barındırıyor.
 ## installation
